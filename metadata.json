@@ -1,0 +1,6 @@
+{
+  "name": "Amit Pest Control",
+  "description": "Safe Home, Healthy Life - Professional, safe, and certified pest control services for cockroaches, termites, rodents, bed bugs, and mosquitoes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
